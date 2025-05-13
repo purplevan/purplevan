@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @purplevan
 - 👀 I’m interested in cybersecurity, DataSecOps, OSINT, and cyber threat intelligence. 
-- 🌱 I’m currently learning CTI, MITRE ATT&CK, and cloud security.
-- 💞️ I’m looking to collaborate on security projects or investigations.
+- 🌱 I’m currently learning CTI, detections, hunting, and data.
 - 📫 How to reach me: LinkedIn @ micah vanfossen (https://www.linkedin.com/in/micah-vanfossen/) 
 
 <!---
